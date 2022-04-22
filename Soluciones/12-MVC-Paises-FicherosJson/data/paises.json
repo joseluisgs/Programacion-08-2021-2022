@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nombre": "España",
+    "codigo": "ES",
+    "idioma": "Castellano",
+    "moneda": "Euro",
+    "capital": "Madrid",
+    "presupuesto": 457307.0675323584
+  },
+  {
+    "id": 2,
+    "nombre": "Francia",
+    "codigo": "FR",
+    "idioma": "Francés",
+    "moneda": "Euro",
+    "capital": "Paris",
+    "presupuesto": 56288.76702345964
+  },
+  {
+    "id": 3,
+    "nombre": "Italia",
+    "codigo": "IT",
+    "idioma": "Italiano",
+    "moneda": "Euro",
+    "capital": "Roma",
+    "presupuesto": 652526.7283301865
+  },
+  {
+    "id": 4,
+    "nombre": "Alemania",
+    "codigo": "DE",
+    "idioma": "Alemán",
+    "moneda": "Euro",
+    "capital": "Berlín",
+    "presupuesto": 619215.9568885077
+  },
+  {
+    "id": 5,
+    "nombre": "Reino Unido",
+    "codigo": "UK",
+    "idioma": "Inglés",
+    "moneda": "Libra",
+    "capital": "Londres",
+    "presupuesto": 66017.01432463137
+  },
+  {
+    "id": 6,
+    "nombre": "Japón",
+    "codigo": "JP",
+    "idioma": "Japonés",
+    "moneda": "Yen",
+    "capital": "Tokio",
+    "presupuesto": 594982.9421673003
+  },
+  {
+    "id": 7,
+    "nombre": "China",
+    "codigo": "CN",
+    "idioma": "Chino",
+    "moneda": "Yuan",
+    "capital": "Pekín",
+    "presupuesto": 967614.8528164269
+  },
+  {
+    "id": 8,
+    "nombre": "Australia",
+    "codigo": "AU",
+    "idioma": "Inglés",
+    "moneda": "Dólar",
+    "capital": "Canberra",
+    "presupuesto": 962915.8095743732
+  },
+  {
+    "id": 9,
+    "nombre": "Argentina",
+    "codigo": "AR",
+    "idioma": "Español",
+    "moneda": "Peso",
+    "capital": "Buenos Aires",
+    "presupuesto": 430742.56749092956
+  },
+  {
+    "id": 10,
+    "nombre": "Brasil",
+    "codigo": "BR",
+    "idioma": "Portugués",
+    "moneda": "Real",
+    "capital": "Brasilia",
+    "presupuesto": 995036.5600726294
+  },
+  {
+    "id": 11,
+    "nombre": "Estados Unidos",
+    "codigo": "US",
+    "idioma": "Inglés",
+    "moneda": "Dólar",
+    "capital": "Washington",
+    "presupuesto": 456458.26281332836
+  },
+  {
+    "id": 99,
+    "nombre": "Los Pepes",
+    "codigo": "PE",
+    "idioma": "Peperoni",
+    "moneda": "Pepelor",
+    "capital": "Pepilandia",
+    "presupuesto": 666.000
+  }
+]

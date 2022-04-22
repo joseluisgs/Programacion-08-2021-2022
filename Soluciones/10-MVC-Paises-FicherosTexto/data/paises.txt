@@ -1,0 +1,11 @@
+1;España;ES;Castellano;Euro;Madrid;943916.754735567
+2;Francia;FR;Francés;Euro;Paris;47967.12095737543
+3;Italia;IT;Italiano;Euro;Roma;283212.9167356374
+4;Alemania;DE;Alemán;Euro;Berlín;295540.03296615585
+5;Reino Unido;UK;Inglés;Libra;Londres;722726.6691398313
+6;Japón;JP;Japonés;Yen;Tokio;415913.0535591459
+7;China;CN;Chino;Yuan;Pekín;379099.78469140484
+8;Australia;AU;Inglés;Dólar;Canberra;549774.2109129715
+9;Argentina;AR;Español;Peso;Buenos Aires;851569.9127902453
+10;Brasil;BR;Portugués;Real;Brasilia;844776.9777917415
+11;Estados Unidos;US;Inglés;Dólar;Washington;588933.4321287608
